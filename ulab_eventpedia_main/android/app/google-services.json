@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539340628104",
+    "project_id": "ulabeventpedia-b3836",
+    "storage_bucket": "ulabeventpedia-b3836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539340628104:android:a4ffdf08578676268fbf3d",
+        "android_client_info": {
+          "package_name": "com.example.ulab_eventpedia_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTIeQG1LrsqFZAKVu6jmqfSkZRpoMfK6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
