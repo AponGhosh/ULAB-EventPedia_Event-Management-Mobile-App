@@ -26,9 +26,11 @@ ULAB EventPedia is a comprehensive mobile application designed to streamline eve
 **Frontend:**
 - Flutter (Cross-platform mobile development)
 - Dart (Programming language)
+  
 **Backend:**
 - Firebase (Authentication, Database, Storage)
 - Google Maps API (Location services)
+  
 **Development Tools:**
 - Android Studio (Primary IDE)
 - Firebase Console (Backend management)
